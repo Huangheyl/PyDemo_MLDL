@@ -1,0 +1,7 @@
+http://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&mid=2650560928&idx=1&sn=8d7d52a394f644ca50
+493250a969932e&chksm=f1feef23c6896635a36512c1d11361fa7ea5b73a58ea8f83dd1bc3924b5f96f8d0648f
+91f3bf&scene=0#rd
+
+
+算法的时间复杂度是O(K*N*T)，k是中心点个数，N数据集的大小，T是迭代次数
+

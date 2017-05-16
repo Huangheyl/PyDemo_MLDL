@@ -1,0 +1,2 @@
+https://github.com/clayandgithub/zh_cnn_text_classify
+http://mp.weixin.qq.com/s?__biz=MzA4Mzc0NjkwNA==&mid=2650782326&idx=2&sn=94870962662fd6070f39292303003ea5&chksm=87fad341b08d5a578b351ac7a52a66755c5ed5b213260bd40a37e5e727102ce189df9f280b88&scene=0#rd
